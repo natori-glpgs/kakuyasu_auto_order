@@ -1,5 +1,8 @@
 {
+    "debug": 1,
+    "demo_mode": true,
+    "real_order": false,
     "age": 20,
-    "delivery_time": "1900",
+    "delivery_time": "2000",
     "receipt_name": "Example, inc."
 }
